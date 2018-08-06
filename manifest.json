@@ -1,0 +1,18 @@
+{
+    "manifest_version": "2",
+    "api_version": "1",
+    "name": "Repl.it",
+    "description": "Provides Quick access to repl.it service for multiple languages",
+    "developer_name": "Bruno Paz",
+    "icon": "images/icon.png",
+    "options": {
+        "query_debounce": 0.2
+    },
+    "preferences": [{
+        "id": "demo_kw",
+        "type": "keyword",
+        "name": "Repl",
+        "description": "Repl extension",
+        "default_value": "repl"
+    }]
+}
