@@ -12,7 +12,7 @@ LANGUAGES = [
     {'name': 'HTML, CSS, JS', 'icon': 'images/langs/html.png', 'key': 'html'},
     {'name': 'Java', 'icon': 'images/langs/java.png', 'key': 'java'},
     {'name': 'Javascript', 'icon': 'images/langs/js.png', 'key': 'js'},
-    {'name': 'NodeJS', 'icon': 'images/langs/node.png', 'key': 'node'},
+    {'name': 'NodeJS', 'icon': 'images/langs/node.png', 'key': 'nodejs'},
     {'name': 'PHP', 'icon': 'images/langs/php.png', 'key': 'php'},
     {'name': 'Python', 'icon': 'images/langs/python.png', 'key': 'python'},
     {'name': 'Ruby', 'icon': 'images/langs/ruby.png', 'key': 'ruby'},
