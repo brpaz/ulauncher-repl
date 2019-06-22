@@ -12,7 +12,7 @@
       "id": "demo_kw",
       "type": "keyword",
       "name": "Repl",
-      "description": "Repl extension",
+      "description": "Provides Quick access to your repl´s created on Repl.it",
       "default_value": "repl"
     }
   ]
