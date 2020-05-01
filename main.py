@@ -14,7 +14,7 @@ LANGUAGES = [
     {'name': 'Javascript', 'icon': 'images/langs/js.png', 'key': 'js'},
     {'name': 'NodeJS', 'icon': 'images/langs/node.png', 'key': 'nodejs'},
     {'name': 'PHP', 'icon': 'images/langs/php.png', 'key': 'php'},
-    {'name': 'Python', 'icon': 'images/langs/python.png', 'key': 'python'},
+    {'name': 'Python', 'icon': 'images/langs/python.png', 'key': 'python3'},
     {'name': 'Ruby', 'icon': 'images/langs/ruby.png', 'key': 'ruby'},
 ]
 
